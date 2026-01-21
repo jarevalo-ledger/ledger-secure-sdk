@@ -33,6 +33,8 @@
 #include "os_endorsement.h"
 #include <string.h>
 
+/* QUE NOUS */
+
 unsigned int SVC_Call(unsigned int syscall_id, void *parameters);
 unsigned int SVC_cx_call(unsigned int syscall_id, unsigned int *parameters);
 
