@@ -2,46 +2,46 @@
 * @tdejoigny-ledger @jarevalo-ledger
 
 # Top folders owners
-/.github/ISSUE_TEMPLATE/* @tdejoigny-ledger
+/.github/ISSUE_TEMPLATE/ @tdejoigny-ledger
 /.github/pull_request_template.md @tdejoigny-ledger
-/.github/workflows/* @tdejoigny-ledger
+/.github/workflows/ @tdejoigny-ledger
 /arch @tdejoigny-ledger
 /doc @tdejoigny-ledger
 
 # Lib specific owners
-# /io/*: @tdejoigny-ledger @jarevalo-ledger
-# /io_legacy/*: @tdejoigny-ledger @jarevalo-ledger
-/lib_blewbxx/*: @jarevalo-ledger
-/lib_blewbxx_impl/*: @jarevalo-ledger
-/lib_ccid/*: @jarevalo-ledger
-/lib_cxng/*: @jarevalo-ledger
-/lib_nfc/*: @jarevalo-ledger
-/lib_pki/*: @tdejoigny-ledger
-# /lib_standard_app/*: @tdejoigny-ledger @jarevalo-ledger
-/lib_stusb/*: @jarevalo-ledger
-/lib_stusb_impl/*: @jarevalo-ledger
-/lib_tlv/*: @tdejoigny-ledger
-# /lib_u2f/*: @tdejoigny-ledger @jarevalo-ledger
-/lib_u2f_legacy/*: @jarevalo-ledger
-/lib_ux/*: @jarevalo-ledger
-/lib_ux_nbgl/*: @jarevalo-ledger
-/protocol/*: @jarevalo-ledger
-/qrcode/*: @jarevalo-ledger
+# /io/ @tdejoigny-ledger @jarevalo-ledger
+# /io_legacy/ @tdejoigny-ledger @jarevalo-ledger
+/lib_blewbxx/ @jarevalo-ledger
+/lib_blewbxx_impl/ @jarevalo-ledger
+/lib_ccid/ @jarevalo-ledger
+/lib_cxng/ @jarevalo-ledger
+/lib_nfc/ @jarevalo-ledger
+/lib_pki/ @tdejoigny-ledger
+# /lib_standard_app/ @tdejoigny-ledger @jarevalo-ledger
+/lib_stusb/ @jarevalo-ledger
+/lib_stusb_impl/ @jarevalo-ledger
+/lib_tlv/ @tdejoigny-ledger
+# /lib_u2f/ @tdejoigny-ledger @jarevalo-ledger
+/lib_u2f_legacy/ @jarevalo-ledger
+/lib_ux/ @jarevalo-ledger
+/lib_ux_nbgl/ @jarevalo-ledger
+/protocol/ @jarevalo-ledger
+/qrcode/ @jarevalo-ledger
 
 # Source-specific owners
-/src/app_metadata.c: @tdejoigny-ledger
-/src/checks.c: @tdejoigny-ledger
-/src/cx_hash_iovec.c: @tdejoigny-ledger
-/src/cx_stubs.S: @jarevalo-ledger
-/src/cx_wrappers.c: @tdejoigny-ledger
-/src/ledger_assert.c: @tdejoigny-ledger
-/src/nbgl_stubs.S: @jarevalo-ledger
-# /src/os.c: @tdejoigny-ledger @jarevalo-ledger
-# /src/os_printf.c: @tdejoigny-ledger @jarevalo-ledger
-/src/pic.c: @jarevalo-ledger
-/src/retrocompatibility_endorsement.c: @jarevalo-ledger
-# /src/stack_protector.c: @tdejoigny-ledger @jarevalo-ledger
-# /src/stack_protector_init.S: @tdejoigny-ledger @jarevalo-ledger
-/src/svc_call.s: @jarevalo-ledger
-/src/svc_cx_call.s: @jarevalo-ledger
-/src/syscalls.c: @jarevalo-ledger
+/src/app_metadata.c @tdejoigny-ledger
+/src/checks.c @tdejoigny-ledger
+/src/cx_hash_iovec.c @tdejoigny-ledger
+/src/cx_stubs.S @jarevalo-ledger
+/src/cx_wrappers.c @tdejoigny-ledger
+/src/ledger_assert.c @tdejoigny-ledger
+/src/nbgl_stubs.S @jarevalo-ledger
+# /src/os.c @tdejoigny-ledger @jarevalo-ledger
+# /src/os_printf.c @tdejoigny-ledger @jarevalo-ledger
+/src/pic.c @jarevalo-ledger
+/src/retrocompatibility_endorsement.c @jarevalo-ledger
+# /src/stack_protector.c @tdejoigny-ledger @jarevalo-ledger
+# /src/stack_protector_init.S @tdejoigny-ledger @jarevalo-ledger
+/src/svc_call.s @jarevalo-ledger
+/src/svc_cx_call.s @jarevalo-ledger
+/src/syscalls.c @jarevalo-ledger
